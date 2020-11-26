@@ -5,11 +5,12 @@
 - MySql
 
 ## Softwares Necessários
-NodeJS - DOTNET CORE 3.1
+NodeJS<br/>
+DOTNET CORE 3.1
 
 ## Instruções
 
-FRONTEND
+FRONTEND<br/>
 Vá na Pasta RAIZ do projeto e execute o seguinte código 
 ### `npm install`
 
@@ -25,5 +26,5 @@ Apos isso vá ao Package Manager Console e execute `update-database` para montar
 Rode o projeto 
 
 ## CREDENCIAIS DE ACESSO PADRÃO
-Login: admin
+Login: admin<br/>
 Senha: admin
