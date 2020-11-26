@@ -9,7 +9,7 @@ NodeJS - DOTNET CORE 3.1
 
 ## Instruções
 
-**FRONTEND
+FRONTEND
 Vá na Pasta RAIZ do projeto e execute o seguinte código 
 ### `npm install`
 
@@ -19,7 +19,7 @@ Aguarde fazer o download de todos arquivos necessários e execute
 O projeto frontend vai estar disponivel na url
 http://localhost:3000/
 
-**BACKEND
+BACKEND
 Altere o arquivo `appsettings.Development.json` e altere a linha 10(HWMysql) colocando suas credenciais do banco de dados,
 Apos isso vá ao Package Manager Console e execute `update-database` para montar a estrutura do banco na sua maquina.
 Rode o projeto 
